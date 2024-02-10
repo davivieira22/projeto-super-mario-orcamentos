@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt.br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>super mario orçamentos</title>
+</head>
+
+<body class="mascara2">
+    <div class="mascara-form" onclick="esconderform()"></div>
+
+    <header>
+        <img src="./imagem/logo-header.png" class="logo-header" />
+        <a hrf="nossos-serviso.html">Home</a>
+        <a href="https://api.whatsapp.com/send?phone=5532988469702&text=ola%20preciso%20de%20ajuda%20!!">Fale
+            Conosco</a>
+        <a href="nossos-serviso.html">Nossos Serviços</a>
+    </header>
+
+    <div class="container">
+        <div class="background">
+            <video loop autoplay muted class="conteudo-background ">
+                <source src="./imagem/video.mp4">
+            </video>
+
+            <div class="mascara-video"></div>
+        </div>
+
+        <div class="sobre-nos">
+            <img src="./imagem/logo.png" class="logo">
+            <p>
+                🔧 Encanadores Mario & Luigi - Resolvendo Seus Problemas Hidráulicos Com Estilo! 🔧
+            </p>
+            <p>
+                Você já se encontrou em uma situação de emergência com encanamento? Vazamentos inesperados, canos
+                entupidos ou torneiras que não param de pingar? Não se preocupe, porque estamos aqui para salvar o dia!
+                Apresentamos a vocês os encanadores mais famosos do Reino dos Cogumelos - Mario e Luigi!
+            </p>
+            <button onclick="mostraform()">Entre em Contato</button>
+        </div>
+        <img src="./imagem/mario.png" class="mario">
+        <a class="whatsapp"
+            href="https://api.whatsapp.com/send?phone=5532988469702&text=ola%20preciso%20de%20ajuda%20!!"
+            target="_blank">
+            <img src="./imagem/whatsapp.png" />
+        </a>
+
+        <form action="https://formcarry.com/s/w8j8GBXDEp9" method="POST" enctype="multipart/form-data"
+            class="fale-conosco">
+
+            <input type="text" name="nome " placeholder="Seu Nome" required>
+            <input type="tel" name="telefone" placeholder="Telefone" required>
+            <textarea type="text" name="texto
+            " placeholder="Digite seu problema"></textarea>
+            <button typle="submit" class="meu-botao" type="submit">Pedir Orçamento</button>
+        </form>
+    </div>
+</body>
+
+<script src="./scripts.js"></script>
+
+</html>
