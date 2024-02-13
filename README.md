@@ -12,8 +12,8 @@
 <h3>ele foi um dos que mais gostei pois foi um dos primeiros que eu criei.ELE TANBEM E RESPONSIVO OU SEJA ELE SE ADAPTA TANTO PARA COMPUTADOR QUANTO PARA CELULAR VEJA ABAIXO AS FOTOS </h3>
 <br>
 <br>
-<img src="https://github.com/davivieira22/projeto-super-mario-orcamentos/blob/main/imagem/Design%20sem%20nome%20(1).png? widht="10px">
+<img src="https://github.com/davivieira22/projeto-super-mario-orcamentos/blob/main/imagem/Design%20sem%20nome%20(1).png">
 <br>
 <br>
 
-<img src="raw=truehttps://github.com/davivieira22/projeto-super-mario-orcamentos/blob/main/imagem/Design%20sem%20nome.png?" widht="10px">
+<img src="https://github.com/davivieira22/projeto-super-mario-orcamentos/blob/main/imagem/Design%20sem%20nome.png">
